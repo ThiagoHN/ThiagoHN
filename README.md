@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### Right now, I'm just a desperate student tryning to survive college.
+
 <!--
 **ThiagoHN/ThiagoHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
