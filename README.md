@@ -1,8 +1,19 @@
-### Hi there 👋
+### HELLO WORLD, Thiago here!!!  👋
 
-### Right now, I'm just a desperate student trying to survive college...
+<a target="_blank" href="https://www.linkedin.com/in/thiago-henriques-nogueira-7ba56b1b7/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="mailto:thiagohnogueira01@gmail.com">
+  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 
+----
 
+Hi, I'm Thiago 
+
+I'm a computer science student trying to survive college at any cost...
+
+----
 
 <!--
 **ThiagoHN/ThiagoHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
