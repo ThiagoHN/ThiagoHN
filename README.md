@@ -4,7 +4,7 @@
   <img align="left" alt="LinkedIN" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/124/124011.svg" />
 </a>
 <a target="_blank" href="mailto:thiagohnogueira01@gmail.com">
-  <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Gmail" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/732/732200.svg" />
 </a>
 </br>
 
