@@ -32,8 +32,6 @@ I'm a computer science undergraduate at Pontifícia Universidade Católica de Mi
 - Pixel Art 
 - Read
 
-<br>
-
 ## **My Stats**
 <br>
 
