@@ -32,7 +32,7 @@ I'm a computer science undergraduate at Pontifícia Universidade Católica de Mi
 - Pixel Art 
 - Read
 
-<hr>
+<br>
 
 ## **My Stats**
 <br>
@@ -41,10 +41,6 @@ I'm a computer science undergraduate at Pontifícia Universidade Católica de Mi
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ThiagoHN&show_icons=false&theme=gotham&include_all_commits=true&count_private=true" align="center"/> &nbsp;&nbsp;&nbsp;
   <img height="150em"  width= "400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoHN&layout=compact&langs_count=16&theme=gotham" align="center"/>
 </div>
-
-<br>
-
-<hr>
 
 <br>
 
@@ -72,9 +68,8 @@ I'm a computer science undergraduate at Pontifícia Universidade Católica de Mi
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></a>
 
 </div>
-<br>
 
-<hr>
+<br>
 
 ## **Organizations**
 
