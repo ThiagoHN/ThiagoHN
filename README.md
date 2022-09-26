@@ -20,7 +20,7 @@
 **Name:** Thiago Henriques Nogueira
 <br>
 
-**Age:** 20
+**Age:** 21
 <br>
 
 I'm a computer science undergraduate at Pontifícia Universidade Católica de Minas Gerais (PUC-MG). Since I was a kid, I fell in love with the technologies simply because how they can turn into powerfull tools in the right hands. I would say my favorite languages are Pyhton3 and C/C++. I always seek to learn new things, and I will be motivated to go through any difficulties to achieve my goal! 
